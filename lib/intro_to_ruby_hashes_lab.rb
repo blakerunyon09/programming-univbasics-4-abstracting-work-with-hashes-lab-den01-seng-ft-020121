@@ -20,7 +20,7 @@ end
 
 
 def print(word)
-  p "word"
+  p :word
 end
 
 print("thing")
