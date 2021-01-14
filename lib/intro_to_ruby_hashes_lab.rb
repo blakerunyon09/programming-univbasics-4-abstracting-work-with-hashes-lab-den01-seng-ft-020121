@@ -22,5 +22,3 @@ end
 def print(word)
   p :word
 end
-
-my_hash_creator(:key, "key-string")
