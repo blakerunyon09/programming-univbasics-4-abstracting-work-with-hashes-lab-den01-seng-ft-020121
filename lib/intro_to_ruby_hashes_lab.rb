@@ -22,3 +22,5 @@ end
 def print(word)
   p :word
 end
+
+print("string")
